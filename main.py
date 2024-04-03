@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import answers as A 
 
 
-TOKEN = '6887635094:AAFZ0FaDWiTOuAl4Noil3HCJaf2BocLoNf0'
+TOKEN = ''
 BOT_USERNAME = '@valitheBot'
 
 
